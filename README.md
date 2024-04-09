@@ -2,6 +2,9 @@
 
 This Email Authentication System is a comprehensive solution designed to enhance the security and integrity of online registration processes. Utilizing Node.js and Express, it integrates seamlessly into web applications, offering a robust mechanism for verifying user email addresses during account creation or update procedures.
 
+![Email Authentication System](https://raw.githubusercontent.com/Revanth-Pershad/Email-Authentication-System/main/img/auth.jpg "Email Authentication System Diagram")
+
+
 ## Features
 
 - **Email Verification:** Sends a verification link to the user's email address to confirm authenticity.
